@@ -43,12 +43,12 @@ JWT_SECRET=your_secret_key
 ## 🛠️ Setup Instructions
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/smitmorjariya/Task-Manager.git
+git clone https://github.com/smitmorjariya/Task-Manager.git
 ```
 
 2. **Navigate to the backend folder**
 ```bash
-   cd Task-Manager/backend
+  cd Task-Manager/backend
 ```
 
 3. **Install Dependencies**
