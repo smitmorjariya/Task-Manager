@@ -37,19 +37,19 @@ A full-stack **Task Management System** built using the MERN stack. This applica
 
 ## 📦 Getting Started
 
-### 📁 Clone the Repository
+ 📁 Clone the Repository
 
 ```bash
 git clone https://github.com/smitmorjariya/Task-Manager.git
 ```
 
-## cd backend
+ cd backend
 
 ```bash
 npm install
 ```
 
-- Create a .env file inside the backend/ folder:
+Create a .env file inside the backend/ folder:
 
 ```bash
 MONGO_URI=your_mongo_connection_string
@@ -57,7 +57,7 @@ JWT_SECRET=your_jwt_secret
 PORT=8000
 ```
 
-- Start the backend server:
+Start the backend server:
 
 ```bash
 npm run dev
@@ -65,7 +65,7 @@ npm run dev
 - The server will start on http://localhost:8000
 
 
-
+---
 
 ## 🎨 Frontend Setup
 ```bash
