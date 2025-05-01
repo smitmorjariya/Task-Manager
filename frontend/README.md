@@ -30,8 +30,11 @@ This is the **frontend** of the MERN stack **Task Management System** project de
 
 ```bash
 git clone https://github.com/your-username/task-management-system.git
-
+```
 2. **Navigate to the Frontend Directory** 
->>> cd task-management-system/frontend
+```bash
+cd task-management-system/frontend
+```
+
 
 
