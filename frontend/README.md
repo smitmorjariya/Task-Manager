@@ -12,6 +12,7 @@ This is the **frontend** of the MERN stack **Task Management System** project de
 - Redux Toolkit / Context API (State Management - if used)
 
 ## 📂 Folder Structure
+![image](https://github.com/user-attachments/assets/214e8d3d-384d-43b8-ae3a-ccb6c7b66639)
 
 
 
@@ -44,4 +45,13 @@ npm install
 3. **Run the App** 
 ```bash
 npm run dev
+```
+
+
+## 📄 License
+This project is licensed under the MIT License.
+```yaml
+---
+
+Would you like a matching `README.md` for the backend too?
 ```
