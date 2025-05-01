@@ -16,13 +16,21 @@ This is the **backend** of the MERN stack **Task Management System** project. It
 ## 📂 Folder Structure
 
 ├── controllers/         # Handles the logic for each route (e.g., createTask, getUser)
+
 ├── models/              # Mongoose schemas for MongoDB (e.g., User.js, Task.js)
+
 ├── routes/              # Express route definitions (e.g., /api/tasks, /api/auth)
+
 ├── middleware/          # Custom middleware (e.g., JWT auth check)
+
 ├── config/              # Configuration files, like MongoDB connection setup
+
 ├── utils/               # Optional helper functions (e.g., validators, formatters)
+
 ├── .env                 # Hidden file for storing environment variables like DB URI
+
 ├── server.js            # Main entry point — starts Express server
+
 └── package.json         # Lists dependencies and scripts (like npm run dev)
 
 
