@@ -67,26 +67,32 @@ Server will start at http://localhost:8000.
 
 ## 🔐 Authentication
 
-● User passwords are hashed using bcryptjs.
-● Protected routes use a verifyToken middleware to validate JWT.
+- User passwords are hashed using bcryptjs.
+
+- Protected routes use a verifyToken middleware to validate JWT.
 
 
 ## 🧠 Logic Overview
 
-● Users register and receive a token.
+- Users register and receive a token.
 
-● Authenticated users can create, view, update, and delete their tasks.
+- Authenticated users can create, view, update, and delete their tasks.
 
-● Task data is stored in MongoDB.
+- Task data is stored in MongoDB.
 
 ## Make sure to:
 
-● Set environment variables in the deployment platform.
+- Set environment variables in the deployment platform.
 
-● Allow CORS from your frontend domain.
+- Allow CORS from your frontend domain.
 
 
 ## 👨‍💻 Developer
+
+- **Morjariya Smit N.**
+- Final Year B.E. CSE | MERN Stack Developer  
+- [LinkedIn](https://www.linkedin.com/in/smit-morjariya021/) • [GitHub](https://github.com/smitmorjariya)
+
 
 - **Morjariya Smit N.**
 - Final Year B.E. CSE | MERN Stack Developer  
