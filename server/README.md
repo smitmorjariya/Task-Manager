@@ -81,3 +81,11 @@ Server will start at http://localhost:8000.
 ● Set environment variables in the deployment platform.
 
 ● Allow CORS from your frontend domain.
+
+
+## 👨‍💻 Developer
+
+- **Morjariya Smit N.**
+- Final Year B.E. CSE | MERN Stack Developer  
+- [LinkedIn](https://www.linkedin.com/in/smit-morjariya021/) • [GitHub](https://github.com/smitmorjariya)
+
