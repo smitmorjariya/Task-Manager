@@ -6,6 +6,7 @@ A full-stack **Task Management System** built using the MERN stack. This applica
 
 ## 📁 Project Structure
 
+https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3660-622f-9c6c-4d3f1fd8113c/raw?se=2025-05-01T10%3A46%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=b94535e4-e1e1-5941-8048-964954c8920f&skoid=a3336399-497e-45e5-8f28-4b88ecca3d1f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-01T03%3A45%3A15Z&ske=2025-05-02T03%3A45%3A15Z&sks=b&skv=2024-08-04&sig=naE1T%2BvMz2FpmFUF7/U59sHENIsFNQCiAQ9PWclViPw%3D
 ---
 
 
