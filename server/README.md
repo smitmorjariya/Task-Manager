@@ -16,7 +16,6 @@ This is the **backend** of the MERN stack **Task Management System** project. It
 ## 📂 Folder Structure
 
 ├── controllers/         # Handles the logic for each route (e.g., createTask, getUser)
-
 ├── models/              # Mongoose schemas for MongoDB (e.g., User.js, Task.js)
 
 ├── routes/              # Express route definitions (e.g., /api/tasks, /api/auth)
