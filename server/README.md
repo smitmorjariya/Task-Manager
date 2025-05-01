@@ -15,6 +15,7 @@ This is the **backend** of the MERN stack **Task Management System** project. It
 
 ## 📂 Folder Structure
 
+![image](https://github.com/user-attachments/assets/dbc35042-f2cc-44f8-9832-631f178808d9)
 
 
 
