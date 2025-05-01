@@ -59,24 +59,27 @@ npm run dev
 ```
 Server will start at http://localhost:8000.
 
-##⚙️ Scripts
-● npm run dev - starts the server with nodemon.
+## ⚙️ Scripts
 
-● npm start - starts the server normally (production mode).
+- npm run dev - starts the server with nodemon.
 
-##🔐 Authentication
+- npm start - starts the server normally (production mode).
+
+## 🔐 Authentication
+
 ● User passwords are hashed using bcryptjs.
 ● Protected routes use a verifyToken middleware to validate JWT.
 
 
-##🧠 Logic Overview
+## 🧠 Logic Overview
+
 ● Users register and receive a token.
 
 ● Authenticated users can create, view, update, and delete their tasks.
 
 ● Task data is stored in MongoDB.
 
-##Make sure to:
+## Make sure to:
 
 ● Set environment variables in the deployment platform.
 
