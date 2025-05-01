@@ -96,7 +96,3 @@ Server will start at http://localhost:8000.
 - [LinkedIn](https://www.linkedin.com/in/smit-morjariya021/) • [GitHub](https://github.com/smitmorjariya)
 
 
-- **Morjariya Smit N.**
-- Final Year B.E. CSE | MERN Stack Developer  
-- [LinkedIn](https://www.linkedin.com/in/smit-morjariya021/) • [GitHub](https://github.com/smitmorjariya)
-
