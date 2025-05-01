@@ -48,10 +48,9 @@ npm run dev
 ```
 
 
-## 📄 License
-This project is licensed under the MIT License.
-```yaml
----
+## 👨‍💻 Developer
 
-Would you like a matching `README.md` for the backend too?
-```
+- **Morjariya Smit N.**
+- Final Year B.E. CSE | MERN Stack Developer  
+- [LinkedIn](https://www.linkedin.com/in/smit-morjariya021/) • [GitHub](https://github.com/smitmorjariya)
+
