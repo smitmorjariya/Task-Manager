@@ -5,6 +5,7 @@ A full-stack **Task Management System** built using the MERN stack. This applica
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/1b1e89f4-bf52-43a5-84ee-e2e5db532d8f)
 
 ---
 
